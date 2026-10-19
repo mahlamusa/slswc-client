@@ -90,7 +90,7 @@ Consumers are expected to pass a stable `$base_file` (a plugin's main `__FILE__`
 
 ## Documentation
 
-Full integration guides: [licenseserver.io/documentation](https://licenseserver.io/documentation)
+Full integration guides: [licenseserver.io/docs](https://licenseserver.io/docs)
 
 ## License
 
